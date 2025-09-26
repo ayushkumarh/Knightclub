@@ -143,7 +143,7 @@
       <div class="popup-header">Support Us!</div>
       <div class="popup-subtitle">Join our Telegram for latest updates.</div>
       <div class="popup-buttons">
-        <a href="https://t.me/+i539-roGagYxMTY1" target="_blank" class="join-btn">Join Now</a>
+        <a href="https://t.me/+msxyVPDhk_A3MmI1" target="_blank" class="join-btn">Join Now</a>
         <button class="already-btn" onclick="closePopup()">Already Joined</button>
       </div>
     </div>
